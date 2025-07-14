@@ -9,7 +9,7 @@ This is my personal setup running **Nextcloud All-in-One (AIO)** on a **Raspberr
 - ✅ Nextcloud AIO (All-in-One) via Docker
 - 🌐 Cloudflare Tunnel for remote access
 - 🔐 UFW firewall config for port access
-- 💾 Tested on Raspberry Pi OS / Ubuntu Server 22.04.2
+- 💾 Tested on Raspberry Pi OS
 
 ---
 
