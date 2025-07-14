@@ -29,4 +29,3 @@ This is my personal setup running **Nextcloud All-in-One (AIO)** on a **Raspberr
 sudo ufw allow 8080
 sudo ufw allow 11000
 sudo ufw reload
-´´´
