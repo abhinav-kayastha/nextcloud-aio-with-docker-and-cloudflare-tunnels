@@ -1,0 +1,7 @@
+tunnel: nextcloud
+credentials-file: /home/YOUR_USER/.cloudflared/TUNNEL_ID.json
+
+ingress:
+  - hostname: YOUR_HOSTNAME
+    service: http://<YOUR_LOCAL_ADDRESS>:11000
+  - service: http_status:404
