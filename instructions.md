@@ -24,6 +24,10 @@ Create tunnel:
     
     cloudflared tunnel create nextcloud
 
-  Use the cloudflared-config.yml and place it at:
+Use the cloudflared-config.yml and place it at:
 
     ~/.cloudflared/config.yml
+
+Start the tunnel:
+
+    cloudflared tunnel run nextcloud
