@@ -10,7 +10,7 @@ Launch Nextcloud:
 
     docker-compose up -d
 
-Access locally at: http://localhost:11000
+Access locally at: http://<YOUR_HOSTNAME>:11000
 
 🌐 Cloudflare Tunnel Setup
 
