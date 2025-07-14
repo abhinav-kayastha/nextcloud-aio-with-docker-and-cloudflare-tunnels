@@ -24,7 +24,9 @@ This is my personal setup running **Nextcloud All-in-One (AIO)** on a **Raspberr
 
 ## 🚀 Installation Steps
 
-### 1. Allow Necessary Ports (Optional)
+Look at the other files.
+
+### 1. Allow Necessary Ports
 ```bash
 sudo ufw allow 8080
 sudo ufw allow 11000
