@@ -24,7 +24,7 @@ This is my personal setup running **Nextcloud All-in-One (AIO)** on a **Raspberr
 
 ## 🚀 Installation Steps
 
-Look at the other files.
+Look at instructions.md.
 
 ### 1. Allow Necessary Ports
 ```bash
